@@ -1,4 +1,3 @@
-```markdown
 # Shell Script for User Management and Backup in Linux
 
 ## Overview
