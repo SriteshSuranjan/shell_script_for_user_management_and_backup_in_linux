@@ -108,4 +108,4 @@ This project is open-source and available under the MIT License. See the [LICENS
 
 - Thanks to the Linux community for the powerful tools used to create this script.
 - This script is designed to simplify user management and backup processes on Linux-based systems.
-```
+
